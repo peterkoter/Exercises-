@@ -1,2 +1,2 @@
 # Exercises-
-Short exercises in Groovy
+Short coding exercises in Groovy
