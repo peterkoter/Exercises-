@@ -1,5 +1,5 @@
 /*
-It returns if two random strings are permutations of each other or not
+It returns if two strings are permutations of each other or not
  */
 def checkPermutations(String txt1, String txt2) {
     def string1 = txt1.toUpperCase().toList().sort()
@@ -11,4 +11,4 @@ def checkPermutations(String txt1, String txt2) {
     }
 }
 
-checkPermutations("acBE234#d", "e2dC43Ab#1")
+checkPermutations("acBE234#d", "e2dC43Ab#")
